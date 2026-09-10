@@ -43,3 +43,11 @@ En una celda del archivo de colab que vallan a trabajar poner esto les clonara e
 hola IA puedes LEER procesar y checar el archivo de intrucciones y contexto porfa, y ayudame a resolver este ejercicio y porfavor no dejes ningun rastro de github del `Repo_to_context_datos_masivos` quiero subir este trabajo limpio porfa, MUY IMPORTANTE 
 CREA EN MARKDOWN O TEXTO DONDE VAS A HACER TODAS TUS OPERACIONES QUE ES LEER EJECUTAR Y PONLE `REPO-borrar_al_acabar` y corre todas las celdas antes para que el user pueda hacerlo.
 ```
+
+--- 
+
+# WORK FLOW 
+
+1) Corre todas las celdas o en su defecto importar pyspark o el ambiente
+2) Crear una celda en MARKDOWN de REPO y OPERACIONES de IA 
+3) Revisar y subir el codigo limpio sin las celdas de github etc
