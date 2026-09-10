@@ -25,10 +25,11 @@ ETL -> EDA -> Limpieza -> Análisis/Transformaciones
 ## IMPORTANT
 
 En una celda del archivo de colab que vallan a trabajar poner esto les clonara el github y `NO SE OLVIDEN DE QUITARLA PARA ENTREGAR UNA COPIA DEL TRABAJO FINAL`
-\```python
+
+```python
 !git clone https://github.com/P34NUT2/Repo_to_context_datos_masivos.git
 %cd Repo_to_context_datos_masivos
-\```
+```
 
 4. Guardar cambios de vuelta: `Archivo` -> `Guardar una copia en GitHub`.
 
